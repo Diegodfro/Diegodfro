@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Diego! ![Kratos](https://upload.wikimedia.org/wikipedia/en/a/a7/Kratos_PS4.png)
+# 👋 Hey, I'm Diego! ![Diego Image](https://i.pinimg.com/originals/02/e3/ee/02e3ee522078e2ce31a502374bbb5562.png)
 
 ## 🌱 Currently Learning
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -8,9 +8,9 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🇧🇷 About Me
-I'm a *Brazilian* passionate about learning programming on my own. Every day, I dive deeper into code, always striving to grow and improve.
+I'm a Brazilian passionate about learning programming on my own. Every day, I dive deeper into code, always striving to grow and improve.
 
-In my free time, I like to challenge myself to *100% complete* games — because finishing is just the beginning, right?
+In my free time, I like to challenge myself to 100% complete games — because finishing is just the beginning, right?
 
 ## 💻 Technologies
 - Languages: HTML, CSS, Python, JavaScript
