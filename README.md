@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Diego! ![Diego Image](https://i.pinimg.com/originals/02/e3/ee/02e3ee522078e2ce31a502374bbb5562.png)
+# 👋 Hey, I'm Diego! <img src="https://i.pinimg.com/originals/02/e3/ee/02e3ee522078e2ce31a502374bbb5562.png" width="100" />
 
 ## 🌱 Currently Learning
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
